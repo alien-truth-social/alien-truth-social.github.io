@@ -8,11 +8,20 @@
     <language>en</language>
     <lastBuildDate>Sun, 27 Apr 2025 20:16:00 +0000</lastBuildDate><atom:link href="https://alien-truth-social.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Television</title>
-      <link>https://alien-truth-social.github.io/categories/television/</link>
+      <title>Arts</title>
+      <link>https://alien-truth-social.github.io/categories/arts/</link>
       <pubDate>Sun, 27 Apr 2025 20:16:00 +0000</pubDate>
       
-      <guid>https://alien-truth-social.github.io/categories/television/</guid>
+      <guid>https://alien-truth-social.github.io/categories/arts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comic Book</title>
+      <link>https://alien-truth-social.github.io/categories/comic-book/</link>
+      <pubDate>Sun, 27 Apr 2025 20:16:00 +0000</pubDate>
+      
+      <guid>https://alien-truth-social.github.io/categories/comic-book/</guid>
       <description></description>
     </item>
     
@@ -26,47 +35,29 @@
     </item>
     
     <item>
-      <title>Alien Abduction Phenomena</title>
-      <link>https://alien-truth-social.github.io/categories/alien-abduction-phenomena/</link>
-      <pubDate>Sat, 26 Apr 2025 14:41:00 +0000</pubDate>
-      
-      <guid>https://alien-truth-social.github.io/categories/alien-abduction-phenomena/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Conspiracy</title>
-      <link>https://alien-truth-social.github.io/categories/conspiracy/</link>
+      <title>Military</title>
+      <link>https://alien-truth-social.github.io/categories/military/</link>
       <pubDate>Sat, 26 Apr 2025 09:29:00 +0000</pubDate>
       
-      <guid>https://alien-truth-social.github.io/categories/conspiracy/</guid>
+      <guid>https://alien-truth-social.github.io/categories/military/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Alien Abduction</title>
-      <link>https://alien-truth-social.github.io/categories/alien-abduction/</link>
-      <pubDate>Sat, 26 Apr 2025 00:25:00 +0000</pubDate>
-      
-      <guid>https://alien-truth-social.github.io/categories/alien-abduction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hoaxes</title>
-      <link>https://alien-truth-social.github.io/categories/hoaxes/</link>
+      <title>Film</title>
+      <link>https://alien-truth-social.github.io/categories/film/</link>
       <pubDate>Fri, 25 Apr 2025 20:35:00 +0000</pubDate>
       
-      <guid>https://alien-truth-social.github.io/categories/hoaxes/</guid>
+      <guid>https://alien-truth-social.github.io/categories/film/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Movie/Film</title>
-      <link>https://alien-truth-social.github.io/categories/movie/film/</link>
+      <title>Hoax</title>
+      <link>https://alien-truth-social.github.io/categories/hoax/</link>
       <pubDate>Fri, 25 Apr 2025 20:35:00 +0000</pubDate>
       
-      <guid>https://alien-truth-social.github.io/categories/movie/film/</guid>
+      <guid>https://alien-truth-social.github.io/categories/hoax/</guid>
       <description></description>
     </item>
     
@@ -80,20 +71,11 @@
     </item>
     
     <item>
-      <title>Conspiracy Theories</title>
-      <link>https://alien-truth-social.github.io/categories/conspiracy-theories/</link>
-      <pubDate>Fri, 25 Apr 2025 14:27:00 +0000</pubDate>
+      <title>Beliefs</title>
+      <link>https://alien-truth-social.github.io/categories/beliefs/</link>
+      <pubDate>Tue, 22 Apr 2025 22:43:00 +0000</pubDate>
       
-      <guid>https://alien-truth-social.github.io/categories/conspiracy-theories/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Extraterrestrial Life</title>
-      <link>https://alien-truth-social.github.io/categories/extraterrestrial-life/</link>
-      <pubDate>Fri, 25 Apr 2025 06:52:00 +0000</pubDate>
-      
-      <guid>https://alien-truth-social.github.io/categories/extraterrestrial-life/</guid>
+      <guid>https://alien-truth-social.github.io/categories/beliefs/</guid>
       <description></description>
     </item>
     
@@ -103,24 +85,6 @@
       <pubDate>Tue, 22 Apr 2025 22:43:00 +0000</pubDate>
       
       <guid>https://alien-truth-social.github.io/categories/book/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ufology</title>
-      <link>https://alien-truth-social.github.io/categories/ufology/</link>
-      <pubDate>Tue, 22 Apr 2025 22:43:00 +0000</pubDate>
-      
-      <guid>https://alien-truth-social.github.io/categories/ufology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Games</title>
-      <link>https://alien-truth-social.github.io/categories/games/</link>
-      <pubDate>Sat, 19 Apr 2025 14:05:00 +0000</pubDate>
-      
-      <guid>https://alien-truth-social.github.io/categories/games/</guid>
       <description></description>
     </item>
     
@@ -143,101 +107,38 @@
     </item>
     
     <item>
-      <title>Extraterrestrial Life in Fiction</title>
-      <link>https://alien-truth-social.github.io/categories/extraterrestrial-life-in-fiction/</link>
-      <pubDate>Tue, 15 Apr 2025 03:36:00 +0000</pubDate>
+      <title>Ufology</title>
+      <link>https://alien-truth-social.github.io/categories/ufology/</link>
+      <pubDate>Thu, 06 Mar 2025 19:29:00 +0000</pubDate>
       
-      <guid>https://alien-truth-social.github.io/categories/extraterrestrial-life-in-fiction/</guid>
+      <guid>https://alien-truth-social.github.io/categories/ufology/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Extraterrestrial Folklore and Mythology</title>
-      <link>https://alien-truth-social.github.io/categories/extraterrestrial-folklore-and-mythology/</link>
-      <pubDate>Thu, 10 Apr 2025 15:55:00 +0000</pubDate>
+      <title>Events</title>
+      <link>https://alien-truth-social.github.io/categories/events/</link>
+      <pubDate>Sat, 08 Feb 2025 17:06:00 +0000</pubDate>
       
-      <guid>https://alien-truth-social.github.io/categories/extraterrestrial-folklore-and-mythology/</guid>
+      <guid>https://alien-truth-social.github.io/categories/events/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Gaming</title>
-      <link>https://alien-truth-social.github.io/categories/gaming/</link>
-      <pubDate>Sat, 05 Apr 2025 16:25:00 +0000</pubDate>
-      
-      <guid>https://alien-truth-social.github.io/categories/gaming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Science Fiction Universe</title>
-      <link>https://alien-truth-social.github.io/categories/science-fiction-universe/</link>
-      <pubDate>Sat, 05 Apr 2025 05:10:00 +0000</pubDate>
-      
-      <guid>https://alien-truth-social.github.io/categories/science-fiction-universe/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>UFO Religion</title>
-      <link>https://alien-truth-social.github.io/categories/ufo-religion/</link>
-      <pubDate>Thu, 27 Mar 2025 11:32:00 +0000</pubDate>
-      
-      <guid>https://alien-truth-social.github.io/categories/ufo-religion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Fictional Extraterrestrial Species</title>
-      <link>https://alien-truth-social.github.io/categories/fictional-extraterrestrial-species/</link>
-      <pubDate>Mon, 30 Dec 2024 11:22:00 +0000</pubDate>
-      
-      <guid>https://alien-truth-social.github.io/categories/fictional-extraterrestrial-species/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Comic Book</title>
-      <link>https://alien-truth-social.github.io/categories/comic-book/</link>
+      <title>Comic</title>
+      <link>https://alien-truth-social.github.io/categories/comic/</link>
       <pubDate>Thu, 31 Oct 2024 16:02:00 +0000</pubDate>
       
-      <guid>https://alien-truth-social.github.io/categories/comic-book/</guid>
+      <guid>https://alien-truth-social.github.io/categories/comic/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Cryptozoology</title>
-      <link>https://alien-truth-social.github.io/categories/cryptozoology/</link>
+      <title>Cryptid</title>
+      <link>https://alien-truth-social.github.io/categories/cryptid/</link>
       <pubDate>Thu, 31 Oct 2024 16:02:00 +0000</pubDate>
       
-      <guid>https://alien-truth-social.github.io/categories/cryptozoology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Manga</title>
-      <link>https://alien-truth-social.github.io/categories/manga/</link>
-      <pubDate>Thu, 31 Oct 2024 16:02:00 +0000</pubDate>
-      
-      <guid>https://alien-truth-social.github.io/categories/manga/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Webcomic</title>
-      <link>https://alien-truth-social.github.io/categories/webcomic/</link>
-      <pubDate>Thu, 31 Oct 2024 16:02:00 +0000</pubDate>
-      
-      <guid>https://alien-truth-social.github.io/categories/webcomic/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Toy</title>
-      <link>https://alien-truth-social.github.io/categories/toy/</link>
-      <pubDate>Fri, 26 Jul 2024 23:37:00 +0000</pubDate>
-      
-      <guid>https://alien-truth-social.github.io/categories/toy/</guid>
+      <guid>https://alien-truth-social.github.io/categories/cryptid/</guid>
       <description></description>
     </item>
     
