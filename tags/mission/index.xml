@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mission on Alien Truth Social</title>
+    <link>https://alien-truth-social.github.io/tags/mission/</link>
+    <description>Recent content in Mission on Alien Truth Social</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 04 Jan 2024 00:37:00 +0000</lastBuildDate><atom:link href="https://alien-truth-social.github.io/tags/mission/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Northern Light (spacecraft)</title>
+      <link>https://alien-truth-social.github.io/content/content_91cb3c28f781/</link>
+      <pubDate>Thu, 04 Jan 2024 00:37:00 +0000</pubDate>
+      
+      <guid>https://alien-truth-social.github.io/content/content_91cb3c28f781/</guid>
+      <description>&lt;h1 id=&#34;northern-light&#34;&gt;Northern Light &lt;a href=&#34;#northern-light&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Northern Light was a proposed Canadian Mars lander and rover mission. It was a concept mission studied by a consortium of Canadian universities, companies, and organizations, with Thoth Technology Inc. as the primary contractor. The mission was ultimately cancelled.&lt;/p&gt;
+&lt;h1 id=&#34;mission-overview&#34;&gt;Mission Overview &lt;a href=&#34;#mission-overview&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;The mission aimed to send a lander and rover to Mars. The spacecraft would have consisted of an apogee kick engine, a cruise vehicle, the Northern Light lander, and the Beaver Rover. A Hohmann transfer orbit would have been used for the journey to Mars. Atmospheric entry would have been achieved using a heat shield, parachute, and airbag system. The lander would have deployed the rover onto the Martian surface and communicated directly with Earth via the Algonquin Radio Observatory&amp;rsquo;s 46 m parabolic antenna.&lt;/p&gt;
+&lt;h1 id=&#34;beaver-rover&#34;&gt;Beaver Rover &lt;a href=&#34;#beaver-rover&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;The Beaver Rover was designed to have a maximum range of 1000 meters from the landing site. It would have been battery-powered and equipped with tools and sensors to investigate surface rocks for evidence of photosynthetic life.&lt;/p&gt;
+&lt;h1 id=&#34;history&#34;&gt;History &lt;a href=&#34;#history&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;The project officially began in 2001, led by Ben Quine of York University. York University has a history of participation in the Canadian Space Program and has designed space research instruments used by NASA, including the meteorological station on the Phoenix Mars lander.&lt;/p&gt;
+&lt;p&gt;The project involved partnerships with several Canadian universities, including York University, University of Alberta, University of Toronto, University of Waterloo, University of Winnipeg, University of Western Ontario, University of Saskatchewan, University of New Brunswick, McGill University, and Simon Fraser University. Mission control after landing was planned to be headquartered at York University.&lt;/p&gt;
+&lt;p&gt;The estimated cost was $20 million, potentially less with international collaboration. The Canadian Space Agency was aware of the project but not involved. In 2014, a crowdfunding campaign was launched on Indiegogo and YouTube to raise $1.1 million CAD for flight hardware development, but it only raised $10,012.&lt;/p&gt;
+&lt;h1 id=&#34;scientific-goals&#34;&gt;Scientific Goals &lt;a href=&#34;#scientific-goals&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;The mission had four primary scientific goals:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Search for life on Mars.&lt;/li&gt;
+&lt;li&gt;Search for water on Mars.&lt;/li&gt;
+&lt;li&gt;Investigate the Martian electromagnetic radiation environment and atmospheric properties.&lt;/li&gt;
+&lt;li&gt;Prepare for international Mars sample return and human missions.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;payload-of-the-beaver-rover&#34;&gt;Payload of the Beaver Rover &lt;a href=&#34;#payload-of-the-beaver-rover&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;The Beaver Rover was designed for geological surface exploration and subsurface imaging. Weighing approximately 6 kg, it would have operated independently with a range of about 1 km. It would have carried a visible camera for navigation and surface exploration, a point spectrometer, and a microscope camera for geological surveys. A ground-penetrating radar would have explored the Martian subsurface for water, and an active vibrator and receiver would have conducted an acoustic study of the subsurface. A rock grinding tool was included for immediate subsurface exploration.&lt;/p&gt;
+&lt;h2 id=&#34;massur-seismic-sensor&#34;&gt;MASSur Seismic Sensor &lt;a href=&#34;#massur-seismic-sensor&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The MASSur Seismic Sensor, developed by the University of Calgary, would have provided depth profiles of the Martian surface. A seismometer would have tested the rigidity and elasticity of the Martian topsoil and its rock properties. The seismic system would have used a vibrational source and accelerometers on both the lander and the rover. The redundancy of sensors on both platforms ensured that some primary science objectives could be met even without rover deployment.&lt;/p&gt;
+&lt;h2 id=&#34;ground-penetrating-radar&#34;&gt;Ground Penetrating Radar &lt;a href=&#34;#ground-penetrating-radar&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The Ground-Penetrating Radar (GPR) would have used a 200 MHz radar to provide fine-scale subsurface imaging to a depth of 20 m in loose aggregate and up to 100 m in permafrost or ice. The design shared systems with the seismic instruments.&lt;/p&gt;
+&lt;h2 id=&#34;tc-corer&#34;&gt;TC Corer &lt;a href=&#34;#tc-corer&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The corer would have been capable of drilling up to 10 mm into surface rocks. It would have been used with the Aurora spectrometer and microscope to examine the near-surface composition and search for biosignatures. The core was a contribution from Hong Kong. The flight model instrument had an estimated mass of 350 g.&lt;/p&gt;
+&lt;h1 id=&#34;payload-of-the-northern-light-lander&#34;&gt;Payload of the Northern Light Lander &lt;a href=&#34;#payload-of-the-northern-light-lander&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;aurora-spectrometer&#34;&gt;Aurora Spectrometer &lt;a href=&#34;#aurora-spectrometer&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The proposed spectrometer would have had a wavelength coverage of 625 nm to 2500 nm and observed the whole sky. It would have measured variations in spectral irradiance to determine aerosol and atmospheric composition, including carbon dioxide concentration. It would also have measured the angular dependency of radiation influx in the atmosphere. The Aurora instrument had a mass of 450 g.&lt;/p&gt;
+&lt;h2 id=&#34;argus-spectrometer&#34;&gt;Argus Spectrometer &lt;a href=&#34;#argus-spectrometer&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Similar in design to the Argus 1000 spectrometer flown on CanX-2, the radiometer would have been the primary equipment of the Northern Light lander, making measurements of spectral rock reflectance. The spectrometer had a mass of 240 g.&lt;/p&gt;
+&lt;h2 id=&#34;camera-systems&#34;&gt;Camera Systems &lt;a href=&#34;#camera-systems&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The camera systems on the lander would have had narrow and wide field survey capabilities. The narrow field survey would have provided a high-resolution, panoramic view of the landing site. Color filters would have performed spectral mapping and mineral identification of the surrounding soil. The camera would also have performed limited atmospheric and astronomical observations. Color images of Earth would have been obtained. The wide field survey would have provided an overall color view of the lander&amp;rsquo;s surroundings to help rover deployment and route planning.&lt;/p&gt;
+&lt;h2 id=&#34;massur-seismic-sensors&#34;&gt;MASSur Seismic Sensors &lt;a href=&#34;#massur-seismic-sensors&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Similar specifications as those on the Beaver Rover.&lt;/p&gt;
+&lt;h2 id=&#34;environmental-sensors&#34;&gt;Environmental Sensors &lt;a href=&#34;#environmental-sensors&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Environmental sensors would have monitored conditions at the landing site. Instruments would have measured UV rays, oxidizing substances, air pressure, air temperature, dust impact, wind velocity, and ground vibration. These sensors would have a combined mass of 130 g. Flight models were previously developed for Britain&amp;rsquo;s Beagle 2 lander.&lt;/p&gt;
+&lt;h1 id=&#34;tracking&#34;&gt;Tracking &lt;a href=&#34;#tracking&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;The entry system would have been tracked and targeted using a combination of Doppler radar and very long baseline interferometry. This data would have been processed by a high-resolution orbital model using high-precision ephemeris to predict spacecraft location and trajectory. Tracking would have commenced at the Algonquin Radio Observatory upon launch. Continuous tracking would have commenced as the package reached the Martian thermosphere to verify mechanism deployment during descent.&lt;/p&gt;
+&lt;h1 id=&#34;landing-site&#34;&gt;Landing Site &lt;a href=&#34;#landing-site&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;The landing site would have been determined from one of three options by a crowd sourcing campaign. One option was a dry &amp;lsquo;sea&amp;rsquo;, within 5 km of a basin formation.&lt;/p&gt;
+&lt;p&gt;source: &lt;a href=&#34;https://en.wikipedia.org/wiki/Northern_Light_(spacecraft)&#34;&gt;https://en.wikipedia.org/wiki/Northern_Light_(spacecraft)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
