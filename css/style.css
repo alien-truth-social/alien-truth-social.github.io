@@ -215,6 +215,7 @@ body {
 
 .header .menu { justify-content: center; align-items: center; }
 .header .site-title { text-align: center; }
+.header .header-logo { justify-content: left; align-items: left; }
 
 @media (max-width: 767px) {
   .header .site-title {

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robotics on Alien Truth Social</title>
+    <link>http://localhost:1313/tags/robotics/</link>
+    <description>Recent content in Robotics on Alien Truth Social</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Apr 2025 00:43:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/robotics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncrewed spacecraft</title>
+      <link>http://localhost:1313/content/content_ac2b10a2dfa0/</link>
+      <pubDate>Wed, 23 Apr 2025 00:43:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/content/content_ac2b10a2dfa0/</guid>
+      <description>&lt;h1 id=&#34;uncrewed-spacecraft&#34;&gt;Uncrewed Spacecraft &lt;a href=&#34;#uncrewed-spacecraft&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;This Wikipedia article discusses spacecraft that operate without human presence, often referred to as robotic spacecraft. These vehicles can be remotely controlled, guided, or pre-programmed for autonomous operation. They are essential for space exploration due to lower costs, reduced risks, and the ability to explore environments too hostile for humans.&lt;/p&gt;
+&lt;h2 id=&#34;history&#34;&gt;History &lt;a href=&#34;#history&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section details the historical development of uncrewed spacecraft, beginning with the launch of &lt;em&gt;Sputnik&lt;/em&gt; by the Soviet Union in 1957. Key events include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1951:&lt;/strong&gt; The Soviet Union launches the first robotic spacecraft on a suborbital flight with two dogs, Dezik and Tsygan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1957:&lt;/strong&gt; &lt;em&gt;Sputnik 1&lt;/em&gt;, the first artificial satellite, is launched by the USSR. &lt;em&gt;Sputnik 2&lt;/em&gt; follows, carrying the dog Laika, the first animal in orbit.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1958:&lt;/strong&gt; The United States launches its first satellite, &lt;em&gt;Explorer 1&lt;/em&gt;, which confirms the existence of the Van Allen belts. &lt;em&gt;Vanguard 1&lt;/em&gt; is also launched.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1959:&lt;/strong&gt; &lt;em&gt;Luna 1&lt;/em&gt; becomes the first lunar probe to orbit the Moon and then the Sun.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1962:&lt;/strong&gt; &lt;em&gt;Mariner 2&lt;/em&gt; studies Venus, revealing its high temperature.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1965:&lt;/strong&gt; &lt;em&gt;Mariner 4&lt;/em&gt; captures the first images of Mars&amp;rsquo; cratered surface. &lt;em&gt;Luna 9&lt;/em&gt; sends images from the Moon&amp;rsquo;s surface.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1967:&lt;/strong&gt; &lt;em&gt;Surveyor 3&lt;/em&gt; gathers crucial data about the Moon&amp;rsquo;s surface for the Apollo 11 mission.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1977:&lt;/strong&gt; &lt;em&gt;Voyager 1&lt;/em&gt; is launched, entering interstellar space in 2012, followed by &lt;em&gt;Voyager 2&lt;/em&gt; in 2018.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The section also mentions other countries that have successfully launched satellites using their own launch vehicles, including France, Japan, China, the United Kingdom, India, Israel, Iran, North Korea, and South Korea.&lt;/p&gt;
+&lt;h2 id=&#34;design&#34;&gt;Design &lt;a href=&#34;#design&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section outlines the design considerations for uncrewed spacecraft, dividing the vehicle into the mission payload and the bus (or platform). The bus provides essential functions such as physical structure, thermal control, electrical power, attitude control, and telemetry. JPL&amp;rsquo;s division of the &amp;ldquo;flight system&amp;rdquo; into subsystems is also mentioned.&lt;/p&gt;
+&lt;h3 id=&#34;structure&#34;&gt;Structure &lt;a href=&#34;#structure&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The physical structure provides mechanical integrity and supports spacecraft components, ensuring they withstand launch loads.&lt;/p&gt;
+&lt;h3 id=&#34;data-handling&#34;&gt;Data Handling &lt;a href=&#34;#data-handling&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The command and data subsystem stores command sequences, maintains the spacecraft clock, and collects and reports telemetry and mission data.&lt;/p&gt;
+&lt;h3 id=&#34;attitude-determination-and-control&#34;&gt;Attitude Determination and Control &lt;a href=&#34;#attitude-determination-and-control&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This system maintains the spacecraft&amp;rsquo;s orientation in space, compensating for external disturbances and repositioning movable parts.&lt;/p&gt;
+&lt;h4 id=&#34;entry-descent-and-landing&#34;&gt;Entry, Descent, and Landing &lt;a href=&#34;#entry-descent-and-landing&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Integrated sensing uses image transformation algorithms to interpret land data, detect and avoid terrain hazards, and increase landing accuracy.&lt;/p&gt;
+&lt;h5 id=&#34;landing-on-hazardous-terrain&#34;&gt;Landing on Hazardous Terrain &lt;a href=&#34;#landing-on-hazardous-terrain&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h5&gt;
+&lt;p&gt;Key processes for safe landing on a planet&amp;rsquo;s surface include entry into the gravity field and atmosphere, descent through the atmosphere, and a safe landing. The spacecraft must estimate its position, assess hazards, and adjust its trajectory in real time.&lt;/p&gt;
+&lt;h3 id=&#34;telecommunications&#34;&gt;Telecommunications &lt;a href=&#34;#telecommunications&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The telecommunications subsystem includes radio antennas, transmitters, and receivers for communicating with ground stations or other spacecraft.&lt;/p&gt;
+&lt;h4 id=&#34;electrical-power&#34;&gt;Electrical Power &lt;a href=&#34;#electrical-power&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Electric power is supplied by photovoltaic (solar) cells or radioisotope thermoelectric generators, with batteries for storage and distribution circuitry.&lt;/p&gt;
+&lt;h3 id=&#34;temperature-control-and-protection-from-the-environment&#34;&gt;Temperature Control and Protection from the Environment &lt;a href=&#34;#temperature-control-and-protection-from-the-environment&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Spacecraft are protected from temperature fluctuations with insulation, mirrors, and sunshades. Shielding is also used to protect against micrometeoroids and orbital debris.&lt;/p&gt;
+&lt;h3 id=&#34;propulsion&#34;&gt;Propulsion &lt;a href=&#34;#propulsion&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Spacecraft propulsion generates thrust for space travel, with various systems including monopropellant, bipropellant, and ion propulsion. Rocket engines are commonly used.&lt;/p&gt;
+&lt;h4 id=&#34;monopropellant&#34;&gt;Monopropellant &lt;a href=&#34;#monopropellant&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Monopropellant propulsion uses a fuel with a chemically bonded oxidizer, requiring only a fuel line and a catalyst for combustion.&lt;/p&gt;
+&lt;h4 id=&#34;bipropellant&#34;&gt;Bipropellant &lt;a href=&#34;#bipropellant&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Bipropellant propulsion uses liquid propellants that spontaneously combust upon contact, offering high density and space efficacy.&lt;/p&gt;
+&lt;h4 id=&#34;ion&#34;&gt;Ion &lt;a href=&#34;#ion&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Ion propulsion generates thrust by electron bombardment or ion acceleration, providing efficient velocity maintenance for deep-space travel.&lt;/p&gt;
+&lt;h3 id=&#34;mechanical-devices&#34;&gt;Mechanical Devices &lt;a href=&#34;#mechanical-devices&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Mechanical components are moved for deployment or landing, often controlled by pyrotechnic devices.&lt;/p&gt;
+&lt;h3 id=&#34;robotic-vs-uncrewed-spacecraft&#34;&gt;Robotic vs. Uncrewed Spacecraft &lt;a href=&#34;#robotic-vs-uncrewed-spacecraft&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Robotic spacecraft are designed for specific hostile environments, while uncrewed spacecraft operate without personnel via automatic or remote control.&lt;/p&gt;
+&lt;h2 id=&#34;control&#34;&gt;Control &lt;a href=&#34;#control&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section discusses how robotic spacecraft use telemetry to transmit data and status information back to Earth. Early spacecraft lacked remote control, but command systems were later developed. Increased autonomy is crucial for distant probes due to light travel time delays. Probes like &lt;em&gt;Cassini–Huygens&lt;/em&gt; and the Mars Exploration Rovers operate autonomously for extended periods.&lt;/p&gt;
+&lt;h2 id=&#34;space-probes-and-observatories&#34;&gt;Space Probes and Observatories &lt;a href=&#34;#space-probes-and-observatories&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;A space probe is a robotic spacecraft that explores outer space without orbiting Earth. These probes carry scientific instruments and can fly by, orbit, or land on planetary bodies, or even enter interstellar space. Space telescopes or observatories are telescopes in space that avoid atmospheric distortion and light pollution.&lt;/p&gt;
+&lt;h2 id=&#34;cargo-spacecraft&#34;&gt;Cargo Spacecraft &lt;a href=&#34;#cargo-spacecraft&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Cargo or resupply spacecraft transport supplies to space stations. Automated cargo spacecraft have supported missions to &lt;em&gt;Salyut 6&lt;/em&gt;, &lt;em&gt;Salyut 7&lt;/em&gt;, &lt;em&gt;Mir&lt;/em&gt;, the International Space Station (ISS), and the Tiangong space station. Currently, the ISS relies on &lt;em&gt;Progress&lt;/em&gt;, &lt;em&gt;Cargo Dragon 2&lt;/em&gt;, and &lt;em&gt;Cygnus&lt;/em&gt; spacecraft, while Tiangong is supplied by &lt;em&gt;Tianzhou&lt;/em&gt;. The &lt;em&gt;Dream Chaser&lt;/em&gt; and &lt;em&gt;HTV-X&lt;/em&gt; are under development for future use.&lt;/p&gt;
+&lt;p&gt;source: &lt;a href=&#34;https://en.wikipedia.org/wiki/Cargo_spacecraft&#34;&gt;https://en.wikipedia.org/wiki/Cargo_spacecraft&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

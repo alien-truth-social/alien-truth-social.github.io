@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SampleReturn on Alien Truth Social</title>
+    <link>http://localhost:1313/tags/samplereturn/</link>
+    <description>Recent content in SampleReturn on Alien Truth Social</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 23 May 2024 16:07:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/samplereturn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CAESAR</title>
+      <link>http://localhost:1313/content/content_839526ac14a4/</link>
+      <pubDate>Thu, 23 May 2024 16:07:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/content/content_839526ac14a4/</guid>
+      <description>&lt;h1 id=&#34;caesar&#34;&gt;CAESAR &lt;a href=&#34;#caesar&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;CAESAR (Comet Astrobiology Exploration Sample Return) was a proposed sample-return mission to comet 67P/Churyumov–Gerasimenko. It was a finalist in NASA&amp;rsquo;s New Frontiers program mission 4 but was not selected. If chosen, it would have launched in 2024-2025 and returned a sample to Earth in 2038.&lt;/p&gt;
+&lt;h2 id=&#34;mission-overview&#34;&gt;Mission Overview &lt;a href=&#34;#mission-overview&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The mission aimed to collect a sample from comet 67P, which was previously explored by the European Space Agency&amp;rsquo;s &lt;em&gt;Rosetta&lt;/em&gt; probe and its lander &lt;em&gt;Philae&lt;/em&gt;. The existing data from &lt;em&gt;Rosetta&lt;/em&gt; would have allowed for a more informed spacecraft design, increasing the chances of mission success. NASA ultimately selected the &lt;em&gt;Dragonfly&lt;/em&gt; mission over &lt;em&gt;CAESAR&lt;/em&gt; in June 2019.&lt;/p&gt;
+&lt;h2 id=&#34;background&#34;&gt;Background &lt;a href=&#34;#background&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;A comet sample-return mission was a prioritized goal in the 2003 and 2011 Planetary Science Decadal Survey. Prior comet missions by NASA include &lt;em&gt;Deep Space 1&lt;/em&gt;, &lt;em&gt;Stardust&lt;/em&gt;, &lt;em&gt;CONTOUR&lt;/em&gt;, and &lt;em&gt;Deep Impact&lt;/em&gt;, along with participation in the &lt;em&gt;Rosetta&lt;/em&gt; mission. &lt;em&gt;Comet Hopper&lt;/em&gt; was another mission proposal that was a Discovery Program finalist but was not selected.&lt;/p&gt;
+&lt;h2 id=&#34;astrobiology&#34;&gt;Astrobiology &lt;a href=&#34;#astrobiology&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;CAESAR&lt;/em&gt;&amp;rsquo;s objectives centered on understanding the formation of the Solar System and the origins of life. The mission aimed to investigate the possibility that comets delivered organic compounds, specifically tholins, to early Earth, potentially seeding the planet with the building blocks of life. The &lt;em&gt;Rosetta&lt;/em&gt; mission detected tholins on comet 67P.&lt;/p&gt;
+&lt;h2 id=&#34;spacecraft&#34;&gt;Spacecraft &lt;a href=&#34;#spacecraft&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Northrop Grumman Innovation Systems would have built the spacecraft, utilizing technology from the &lt;em&gt;Dawn&lt;/em&gt; mission. Malin Space Science Systems would have provided the camera suite for navigation, sample site selection, and documentation. Honeybee Robotics would have provided the robotic arm (TAG) and the Sample Acquisition System. The Japanese space agency JAXA would have provided the sample return capsule and heatshield.&lt;/p&gt;
+&lt;h2 id=&#34;propulsion&#34;&gt;Propulsion &lt;a href=&#34;#propulsion&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The spacecraft&amp;rsquo;s propulsion system would have been NASA&amp;rsquo;s Evolutionary Xenon Thruster (NEXT), a type of solar electric propulsion. The system would have used three NEXT thrusters, with one as a spare, and xenon as the propellant.&lt;/p&gt;
+&lt;h2 id=&#34;sample-return&#34;&gt;Sample Return &lt;a href=&#34;#sample-return&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The spacecraft would have used a &amp;ldquo;Touch-And-Go&amp;rdquo; (TAG) robotic arm to collect regolith from the comet&amp;rsquo;s surface, similar to &lt;em&gt;OSIRIS-REx&lt;/em&gt;. A burst of nitrogen gas would have blown regolith particles into the sampler head. &lt;em&gt;CAESAR&lt;/em&gt; would have collected between 80 and 800 grams of regolith. The system had enough compressed nitrogen gas for three sampling attempts. The sample would have been returned to Earth in a capsule provided by JAXA, landing at the Utah Test and Training Range in 2038. The sample would then be transported to NASA&amp;rsquo;s Johnson Space Center for curation and analysis at the Astromaterials Research and Exploration Science Directorate (ARES). A portion of the sample would also be curated at Japan&amp;rsquo;s Extraterrestrial Sample Curation Center.&lt;/p&gt;
+&lt;p&gt;source: &lt;a href=&#34;https://en.wikipedia.org/wiki/CAESAR_(spacecraft)&#34;&gt;https://en.wikipedia.org/wiki/CAESAR_(spacecraft)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
