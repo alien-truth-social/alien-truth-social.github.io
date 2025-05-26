@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biosignatures on Alien Truth Social</title>
+    <link>http://localhost:1313/tags/biosignatures/</link>
+    <description>Recent content in Biosignatures on Alien Truth Social</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 12 Jan 2024 02:27:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/biosignatures/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Darwin (spacecraft)</title>
+      <link>http://localhost:1313/content/content_679d3f288d30/</link>
+      <pubDate>Fri, 12 Jan 2024 02:27:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/content/content_679d3f288d30/</guid>
+      <description>&lt;h1 id=&#34;darwin&#34;&gt;Darwin &lt;a href=&#34;#darwin&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Darwin was a proposed ESA Cornerstone mission involving a constellation of spacecraft designed to detect Earth-like planets orbiting nearby stars and search for evidence of life. The most recent design featured three free-flying space telescopes redirecting light to a fourth spacecraft containing beam combiners, spectrometers, and cameras. An earlier design included six 1.5-meter telescopes, a beam combiner, and a separate power and communications spacecraft. The study of this mission ended in 2007.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Key Points&lt;/strong&gt;: Detection of Earth-like planets and search for extraterrestrial life.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Operator&lt;/strong&gt;: ESA (European Space Agency)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: Sun-Earth L2 Lagrangian point in a Halo orbit.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Major Events&lt;/strong&gt;: Study ended in 2007 with no further activities planned.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;concept&#34;&gt;Concept &lt;a href=&#34;#concept&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The space telescopes were designed to observe in the infrared spectrum. This region was chosen because the difference in brightness between an Earth-like planet and its star is less pronounced in the infrared compared to the visible spectrum. The spacecraft components in the optical path would need to be passively cooled to 40 kelvins for infrared observations. The planet search would have used a nulling interferometer configuration to cancel out light from the central star, allowing for the detection of orbiting planets. If a suitable planet was detected, a detailed study of its atmosphere would be conducted by analyzing its infrared spectrum for evidence of life, such as the presence of oxygen and water vapor.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Key Points&lt;/strong&gt;: Infrared observation, nulling interferometer, atmospheric analysis for biosignatures.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Important People&lt;/strong&gt;: Mention of a 2000 ESA bulletin.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Major Events&lt;/strong&gt;: Design considerations for infrared observations and planet detection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;candidate-planets&#34;&gt;Candidate planets &lt;a href=&#34;#candidate-planets&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Planet Gliese 581 d, discovered in 2007, was considered a good candidate for the Darwin project because it orbits within the habitable zone of its star, potentially supporting life.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Key Points&lt;/strong&gt;: Gliese 581 d as a potential target for observation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Major Events&lt;/strong&gt;: Discovery of Gliese 581 d in 2007.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;similar-initiatives&#34;&gt;Similar initiatives &lt;a href=&#34;#similar-initiatives&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;NASA&amp;rsquo;s Terrestrial Planet Finder (TPF) mission was similar in concept to Darwin. However, the TPF project was deferred indefinitely in 2006 and later cancelled in 2011. Antoine Labeyrie proposed a larger space-based astronomical interferometer called the Hypertelescope, which would be more expensive and complex than Darwin and TPF.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Key Points&lt;/strong&gt;: Comparison to NASA&amp;rsquo;s Terrestrial Planet Finder and the Hypertelescope project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Important People&lt;/strong&gt;: Antoine Labeyrie.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Major Events&lt;/strong&gt;: Deferral and cancellation of NASA&amp;rsquo;s Terrestrial Planet Finder.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;source: &lt;a href=&#34;https://en.wikipedia.org/wiki/Darwin_(spacecraft)&#34;&gt;https://en.wikipedia.org/wiki/Darwin_(spacecraft)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

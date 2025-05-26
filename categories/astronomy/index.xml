@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astronomy on Alien Truth Social</title>
+    <link>http://localhost:1313/categories/astronomy/</link>
+    <description>Recent content in Astronomy on Alien Truth Social</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Apr 2025 00:43:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/astronomy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncrewed spacecraft</title>
+      <link>http://localhost:1313/content/content_858050517e8d/</link>
+      <pubDate>Wed, 23 Apr 2025 00:43:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/content/content_858050517e8d/</guid>
+      <description>&lt;h1 id=&#34;uncrewed-spacecraft&#34;&gt;Uncrewed Spacecraft &lt;a href=&#34;#uncrewed-spacecraft&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;This Wikipedia article provides an overview of spacecraft that operate without human presence on board, often referred to as uncrewed or robotic spacecraft. It covers their purpose, history, design considerations, control mechanisms, and various types, including space probes and cargo spacecraft.&lt;/p&gt;
+&lt;h2 id=&#34;spacecraft-without-people-on-board&#34;&gt;Spacecraft without people on board &lt;a href=&#34;#spacecraft-without-people-on-board&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This introductory section defines uncrewed spacecraft as those without humans on board, highlighting their varying levels of autonomy, from remote control to pre-programmed operations. It distinguishes between space probes/observatories (for scientific measurements) and other types of uncrewed spacecraft. The section emphasizes the advantages of using uncrewed spacecraft for certain missions due to lower costs, reduced risks, and the ability to explore hostile environments unsuitable for humans. It also mentions the importance of sterilization for missions exploring regions vulnerable to contamination by Earth microorganisms. The launch of Sputnik on October 4, 1957, is noted as the first uncrewed space mission.&lt;/p&gt;
+&lt;h2 id=&#34;history&#34;&gt;History &lt;a href=&#34;#history&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section traces the historical development of uncrewed spacecraft, starting with the Soviet Union&amp;rsquo;s suborbital flight in 1951 carrying two dogs, Dezik and Tsygan. It details the launch of Sputnik 1 in 1957, the first artificial satellite, followed by Sputnik 2, which carried the first animal, Laika, into orbit. The United States&amp;rsquo; response with Explorer 1 in 1958, which confirmed the existence of the Van Allen belts, is also covered. The section mentions early lunar probes like Luna 1 and highlights key milestones in planetary exploration, such as Mariner 2&amp;rsquo;s study of Venus, Venera 4&amp;rsquo;s atmospheric probe of Venus, and Mariner 4&amp;rsquo;s images of Mars. Voyager 1, launched in 1977, is identified as the first interstellar probe, entering interstellar space in 2012, followed by Voyager 2 in 2018. It also lists the other countries that have successfully launched satellites using their own launch vehicles.&lt;/p&gt;
+&lt;h2 id=&#34;design&#34;&gt;Design &lt;a href=&#34;#design&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section delves into the design considerations for uncrewed spacecraft. It references the United States Air Force&amp;rsquo;s approach, which divides a spacecraft into the mission payload and the bus (or platform), which provides essential support systems. JPL&amp;rsquo;s division of a spacecraft&amp;rsquo;s &amp;ldquo;flight system&amp;rdquo; into subsystems is also mentioned. The subsystems include:&lt;/p&gt;
+&lt;h3 id=&#34;structure&#34;&gt;Structure &lt;a href=&#34;#structure&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The physical structure provides mechanical integrity and support for spacecraft components, ensuring they can withstand launch loads.&lt;/p&gt;
+&lt;h3 id=&#34;data-handling&#34;&gt;Data handling &lt;a href=&#34;#data-handling&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The command and data subsystem stores command sequences, maintains the spacecraft clock, and collects/reports telemetry and mission data.&lt;/p&gt;
+&lt;h3 id=&#34;attitude-determination-and-control&#34;&gt;Attitude determination and control &lt;a href=&#34;#attitude-determination-and-control&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This system maintains the spacecraft&amp;rsquo;s orientation in space, compensating for external disturbances and repositioning movable parts.&lt;/p&gt;
+&lt;h3 id=&#34;entry-descent-and-landing&#34;&gt;Entry, descent, and landing &lt;a href=&#34;#entry-descent-and-landing&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This section discusses the integrated sensing technology used for safe landing on planetary surfaces, including real-time hazard detection and avoidance.&lt;/p&gt;
+&lt;h4 id=&#34;landing-on-hazardous-terrain&#34;&gt;Landing on hazardous terrain &lt;a href=&#34;#landing-on-hazardous-terrain&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;This section details the key processes involved in landing on the surface of a planet to ensure a safe and successful landing.&lt;/p&gt;
+&lt;h3 id=&#34;telecommunications&#34;&gt;Telecommunications &lt;a href=&#34;#telecommunications&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This subsystem includes radio antennas, transmitters, and receivers for communication with Earth or other spacecraft.&lt;/p&gt;
+&lt;h3 id=&#34;electrical-power&#34;&gt;Electrical power &lt;a href=&#34;#electrical-power&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Electric power is supplied by photovoltaic cells or radioisotope thermoelectric generators, with batteries for storage and distribution circuitry.&lt;/p&gt;
+&lt;h3 id=&#34;temperature-control-and-protection-from-the-environment&#34;&gt;Temperature control and protection from the environment &lt;a href=&#34;#temperature-control-and-protection-from-the-environment&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Insulation, mirrors, and sunshades are used to protect spacecraft from temperature fluctuations, micrometeoroids, and orbital debris.&lt;/p&gt;
+&lt;h3 id=&#34;propulsion&#34;&gt;Propulsion &lt;a href=&#34;#propulsion&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This section describes the methods used to propel spacecraft through space, including monopropellant, bipropellant, and ion propulsion systems.&lt;/p&gt;
+&lt;h4 id=&#34;monopropellant&#34;&gt;Monopropellant &lt;a href=&#34;#monopropellant&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;This propulsion system uses a fuel with a chemically bonded oxidizer, requiring a catalyst for combustion.&lt;/p&gt;
+&lt;h4 id=&#34;bipropellant&#34;&gt;Bipropellant &lt;a href=&#34;#bipropellant&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;This propulsion system uses a liquid propellant, where the oxidizer and fuel spontaneously combust upon contact.&lt;/p&gt;
+&lt;h4 id=&#34;ion&#34;&gt;Ion &lt;a href=&#34;#ion&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;This propulsion system generates thrust by accelerating ions, providing efficient velocity maintenance for deep-space travel.&lt;/p&gt;
+&lt;h3 id=&#34;mechanical-devices&#34;&gt;Mechanical devices &lt;a href=&#34;#mechanical-devices&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Pyrotechnic devices are often used to control one-time movements for deployment or landing.&lt;/p&gt;
+&lt;h3 id=&#34;robotic-vs-uncrewed-spacecraft&#34;&gt;Robotic vs. uncrewed spacecraft &lt;a href=&#34;#robotic-vs-uncrewed-spacecraft&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This section clarifies the distinction between robotic and uncrewed spacecraft, noting that robotic spacecraft are designed for specific hostile environments, while uncrewed spacecraft are operated automatically or remotely.&lt;/p&gt;
+&lt;h2 id=&#34;control&#34;&gt;Control &lt;a href=&#34;#control&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section explains how robotic spacecraft use telemetry to transmit data and status information back to Earth. It notes the evolution from early spacecraft without control signals to modern probes with increased autonomy, such as Cassini–Huygens and the Mars Exploration Rovers, which can operate independently for extended periods.&lt;/p&gt;
+&lt;h2 id=&#34;space-probes-and-observatories&#34;&gt;Space probes and observatories &lt;a href=&#34;#space-probes-and-observatories&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section defines space probes as robotic spacecraft that explore outer space beyond Earth&amp;rsquo;s orbit. It describes their scientific instruments and various mission types, including flybys, orbits, landings, and sample returns. The section also mentions trajectory techniques like Hohmann transfer orbits and gravitational slingshots. Space telescopes or observatories are defined as telescopes in outer space used to observe astronomical objects, avoiding atmospheric interference and light pollution.&lt;/p&gt;
+&lt;h2 id=&#34;cargo-spacecraft&#34;&gt;Cargo spacecraft &lt;a href=&#34;#cargo-spacecraft&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section focuses on cargo or resupply spacecraft, which transport supplies to space stations. It mentions the history of automated cargo spacecraft servicing stations like Salyut 6, Mir, and the ISS. The section lists the currently active cargo spacecraft, including Progress, Cargo Dragon 2, Cygnus, and Tianzhou, as well as those under development, such as Dream Chaser and HTV-X. The European Automated Transfer Vehicle (ATV) is mentioned as a previously used cargo spacecraft.&lt;/p&gt;
+&lt;p&gt;source: &lt;a href=&#34;https://en.wikipedia.org/wiki/Space_probe&#34;&gt;https://en.wikipedia.org/wiki/Space_probe&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Kepler space telescope</title>
+      <link>http://localhost:1313/content/content_a440bb8d510b/</link>
+      <pubDate>Wed, 09 Apr 2025 08:24:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/content/content_a440bb8d510b/</guid>
+      <description>&lt;h1 id=&#34;kepler&#34;&gt;Kepler &lt;a href=&#34;#kepler&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;The Kepler space telescope, a NASA mission from 2009 to 2018, was designed to discover Earth-sized exoplanets. Named after astronomer Johannes Kepler, it operated in a heliocentric orbit. The mission ended when its reaction control system fuel was depleted.&lt;/p&gt;
+&lt;h2 id=&#34;mission-type&#34;&gt;Mission type &lt;a href=&#34;#mission-type&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The Kepler mission was a space telescope mission.&lt;/p&gt;
+&lt;h2 id=&#34;operator&#34;&gt;Operator &lt;a href=&#34;#operator&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;NASA and the Laboratory for Atmospheric and Space Physics (LASP) operated the Kepler mission.&lt;/p&gt;
+&lt;h2 id=&#34;cospar-id&#34;&gt;COSPAR ID &lt;a href=&#34;#cospar-id&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The COSPAR ID for Kepler is 2009-011A.&lt;/p&gt;
+&lt;h2 id=&#34;satcat-no&#34;&gt;SATCAT no. &lt;a href=&#34;#satcat-no&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The SATCAT number for Kepler is 34380.&lt;/p&gt;
+&lt;h2 id=&#34;website&#34;&gt;Website &lt;a href=&#34;#website&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The official website for the Kepler mission is &lt;a href=&#34;https://www.nasa.gov/kepler&#34;&gt;www.nasa.gov/kepler&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;mission-duration&#34;&gt;Mission duration &lt;a href=&#34;#mission-duration&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The Kepler mission was initially planned for 3.5 years but ultimately lasted 9 years, 7 months, and 23 days.&lt;/p&gt;
+&lt;h2 id=&#34;spacecraft-properties&#34;&gt;Spacecraft properties &lt;a href=&#34;#spacecraft-properties&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;manufacturer&#34;&gt;Manufacturer &lt;a href=&#34;#manufacturer&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Ball Aerospace &amp;amp; Technologies manufactured the Kepler spacecraft.&lt;/p&gt;
+&lt;h3 id=&#34;launch-mass&#34;&gt;Launch mass &lt;a href=&#34;#launch-mass&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The launch mass of the Kepler spacecraft was 1,052.4 kg (2,320 lb).&lt;/p&gt;
+&lt;h3 id=&#34;dry-mass&#34;&gt;Dry mass &lt;a href=&#34;#dry-mass&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The dry mass of the Kepler spacecraft was 1,040.7 kg (2,294 lb).&lt;/p&gt;
+&lt;h3 id=&#34;payload-mass&#34;&gt;Payload mass &lt;a href=&#34;#payload-mass&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The payload mass of the Kepler spacecraft was 478 kg (1,054 lb).&lt;/p&gt;
+&lt;h3 id=&#34;dimensions&#34;&gt;Dimensions &lt;a href=&#34;#dimensions&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The Kepler spacecraft&amp;rsquo;s dimensions were 4.7 m × 2.7 m (15.4 ft × 8.9 ft).&lt;/p&gt;
+&lt;h3 id=&#34;power&#34;&gt;Power &lt;a href=&#34;#power&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The Kepler spacecraft had a power of 1100 watts.&lt;/p&gt;
+&lt;h2 id=&#34;start-of-mission&#34;&gt;Start of mission &lt;a href=&#34;#start-of-mission&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;launch-date&#34;&gt;Launch date &lt;a href=&#34;#launch-date&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Kepler was launched on March 7, 2009, at 03:49:57 UTC.&lt;/p&gt;
+&lt;h3 id=&#34;rocket&#34;&gt;Rocket &lt;a href=&#34;#rocket&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;A Delta II (7925-10L) rocket was used to launch Kepler.&lt;/p&gt;
+&lt;h3 id=&#34;launch-site&#34;&gt;Launch site &lt;a href=&#34;#launch-site&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The launch site was Cape Canaveral Air Force Station SLC-17B.&lt;/p&gt;
+&lt;h3 id=&#34;contractor&#34;&gt;Contractor &lt;a href=&#34;#contractor&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;United Launch Alliance was the contractor for the launch.&lt;/p&gt;
+&lt;h3 id=&#34;entered-service&#34;&gt;Entered service &lt;a href=&#34;#entered-service&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Kepler entered service on May 12, 2009, at 09:01 UTC.&lt;/p&gt;
+&lt;h2 id=&#34;end-of-mission&#34;&gt;End of mission &lt;a href=&#34;#end-of-mission&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;deactivated&#34;&gt;Deactivated &lt;a href=&#34;#deactivated&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Kepler was deactivated on November 15, 2018.&lt;/p&gt;
+&lt;h2 id=&#34;orbital-parameters&#34;&gt;Orbital parameters &lt;a href=&#34;#orbital-parameters&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;reference-system&#34;&gt;Reference system &lt;a href=&#34;#reference-system&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The reference system for Kepler&amp;rsquo;s orbit is heliocentric.&lt;/p&gt;
+&lt;h3 id=&#34;regime&#34;&gt;Regime &lt;a href=&#34;#regime&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Kepler&amp;rsquo;s orbital regime was Earth-trailing.&lt;/p&gt;
+&lt;h3 id=&#34;semi-major-axis&#34;&gt;Semi-major axis &lt;a href=&#34;#semi-major-axis&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The semi-major axis of Kepler&amp;rsquo;s orbit was 1.0133 AU.&lt;/p&gt;
+&lt;h3 id=&#34;eccentricity&#34;&gt;Eccentricity &lt;a href=&#34;#eccentricity&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The eccentricity of Kepler&amp;rsquo;s orbit was 0.036116.&lt;/p&gt;
+&lt;h3 id=&#34;perihelion-altitude&#34;&gt;Perihelion altitude &lt;a href=&#34;#perihelion-altitude&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The perihelion altitude of Kepler&amp;rsquo;s orbit was 0.97671 AU.&lt;/p&gt;
+&lt;h3 id=&#34;aphelion-altitude&#34;&gt;Aphelion altitude &lt;a href=&#34;#aphelion-altitude&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The aphelion altitude of Kepler&amp;rsquo;s orbit was 1.0499 AU.&lt;/p&gt;
+&lt;h3 id=&#34;inclination&#34;&gt;Inclination &lt;a href=&#34;#inclination&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The inclination of Kepler&amp;rsquo;s orbit was 0.4474 degrees.&lt;/p&gt;
+&lt;h3 id=&#34;period&#34;&gt;Period &lt;a href=&#34;#period&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The orbital period of Kepler was 372.57 days.&lt;/p&gt;
+&lt;h3 id=&#34;argument-of-perihelion&#34;&gt;Argument of perihelion &lt;a href=&#34;#argument-of-perihelion&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The argument of perihelion of Kepler&amp;rsquo;s orbit was 294.04 degrees.&lt;/p&gt;
+&lt;h3 id=&#34;mean-anomaly&#34;&gt;Mean anomaly &lt;a href=&#34;#mean-anomaly&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The mean anomaly of Kepler&amp;rsquo;s orbit was 311.67 degrees.&lt;/p&gt;
+&lt;h3 id=&#34;mean-motion&#34;&gt;Mean motion &lt;a href=&#34;#mean-motion&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The mean motion of Kepler&amp;rsquo;s orbit was 0.96626 deg/day.&lt;/p&gt;
+&lt;h3 id=&#34;epoch&#34;&gt;Epoch &lt;a href=&#34;#epoch&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The epoch for Kepler&amp;rsquo;s orbital parameters was January 1, 2018 (J2000: 2458119.5).&lt;/p&gt;
+&lt;h2 id=&#34;main-telescope&#34;&gt;Main telescope &lt;a href=&#34;#main-telescope&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;type&#34;&gt;Type &lt;a href=&#34;#type&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The Kepler telescope was a Schmidt camera.&lt;/p&gt;
+&lt;h3 id=&#34;diameter&#34;&gt;Diameter &lt;a href=&#34;#diameter&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The diameter of the Kepler telescope was 0.95 m (3.1 ft).&lt;/p&gt;
+&lt;h3 id=&#34;collecting-area&#34;&gt;Collecting area &lt;a href=&#34;#collecting-area&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The collecting area of the Kepler telescope was 0.708 m2 (7.62 sq ft).&lt;/p&gt;
+&lt;h3 id=&#34;wavelengths&#34;&gt;Wavelengths &lt;a href=&#34;#wavelengths&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The Kepler telescope operated at wavelengths of 430–890 nm.&lt;/p&gt;
+&lt;h2 id=&#34;transponders&#34;&gt;Transponders &lt;a href=&#34;#transponders&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;bandwidth&#34;&gt;Bandwidth &lt;a href=&#34;#bandwidth&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Kepler&amp;rsquo;s bandwidth was:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;X band up: 7.8 bit/s – 2 kbit/s&lt;/li&gt;
+&lt;li&gt;X band down: 10 bit/s – 16 kbit/s&lt;/li&gt;
+&lt;li&gt;Ka band down: Up to 4.3 Mbit/s&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;discovery-program&#34;&gt;Discovery program &lt;a href=&#34;#discovery-program&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Kepler is part of the Discovery Program.&lt;/p&gt;
+&lt;h2 id=&#34;history&#34;&gt;History &lt;a href=&#34;#history&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;pre-launch-development&#34;&gt;Pre-launch development &lt;a href=&#34;#pre-launch-development&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The Kepler space telescope was part of NASA&amp;rsquo;s Discovery Program. The Jet Propulsion Laboratory managed construction and initial operation, while Ball Aerospace developed the flight system. Budget cuts and consolidation at NASA delayed the launch. The high-gain antenna design was changed to reduce cost and complexity.&lt;/p&gt;
+&lt;h3 id=&#34;post-launch&#34;&gt;Post launch &lt;a href=&#34;#post-launch&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The Ames Research Center managed ground system development, mission operations, and data analysis. The initial mission lifetime was 3.5 years, but noise in the data required more time. Reaction wheel failures in 2012 and 2013 threatened the mission. NASA sought alternative mission plans, leading to the K2 &amp;ldquo;Second Light&amp;rdquo; proposal. By 2015, Kepler had found over 1,000 confirmed exoplanets and thousands of candidates. Astronomers estimated billions of rocky, Earth-sized exoplanets in habitable zones. NASA announced the 1,000th confirmed exoplanet in 2015. In 2016, 1,284 new exoplanets were verified. Kepler data also helped study supernovae. The mission ended on October 30, 2018, after running out of fuel.&lt;/p&gt;
+&lt;h2 id=&#34;spacecraft-design&#34;&gt;Spacecraft design &lt;a href=&#34;#spacecraft-design&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The Kepler telescope had a mass of 1,039 kg and used a Schmidt camera with a 0.95-meter corrector plate and a 1.4-meter primary mirror. It had a 115 deg2 field of view.&lt;/p&gt;
+&lt;h3 id=&#34;camera&#34;&gt;Camera &lt;a href=&#34;#camera&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The camera&amp;rsquo;s focal plane consisted of forty-two 50 × 25 mm CCDs with a total resolution of 94.6 megapixels. The CCDs were read out every 6.5 seconds and co-added on board. Data from selected pixels was requantized, compressed, and stored in a 16 gigabyte solid-state recorder.&lt;/p&gt;
+&lt;h3 id=&#34;primary-mirror&#34;&gt;Primary mirror &lt;a href=&#34;#primary-mirror&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The primary mirror was 1.4 meters in diameter, made by Corning using ultra-low expansion (ULE) glass. It had a nine-layer silver coating to enhance reflection.&lt;/p&gt;
+&lt;h3 id=&#34;photometric-performance&#34;&gt;Photometric performance &lt;a href=&#34;#photometric-performance&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Kepler&amp;rsquo;s photometric performance was good but fell short of design goals. The objective was 20 ppm CDPP for a magnitude 12 star for a 6.5-hour integration. The median obtained accuracy was 29 ppm.&lt;/p&gt;
+&lt;h3 id=&#34;orbit-and-orientation&#34;&gt;Orbit and orientation &lt;a href=&#34;#orbit-and-orientation&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Kepler orbits the Sun in an Earth-trailing orbit with a period of 372.5 days. The photometer pointed to a field in the constellations Cygnus, Lyra, and Draco. Orientation was three-axis stabilized using fine-guidance sensors and reaction wheels.&lt;/p&gt;
+&lt;h3 id=&#34;operations&#34;&gt;Operations &lt;a href=&#34;#operations&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The Laboratory for Atmospheric and Space Physics (LASP) operated Kepler from Boulder, Colorado. The spacecraft&amp;rsquo;s solar array was rotated at solstices and equinoxes.&lt;/p&gt;
+&lt;h4 id=&#34;communications&#34;&gt;Communications &lt;a href=&#34;#communications&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;NASA contacted Kepler using the X band communication link. Scientific data was downloaded monthly using the Ka band link.&lt;/p&gt;
+&lt;h4 id=&#34;data-management&#34;&gt;Data management &lt;a href=&#34;#data-management&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Science data was processed by the Kepler Data Management Center (DMC) at the Space Telescope Science Institute and the Science Operations Center (SOC) at NASA Ames Research Center. Calibrated data products and scientific results were archived and distributed to astronomers.&lt;/p&gt;
+&lt;h4 id=&#34;reaction-wheel-failures&#34;&gt;Reaction wheel failures &lt;a href=&#34;#reaction-wheel-failures&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;Reaction wheel failures in 2012 and 2013 were traced to pitting caused by arcing between steel ball bearings, triggered by coronal mass ejections (CMEs).&lt;/p&gt;
+&lt;h3 id=&#34;operational-timeline&#34;&gt;Operational timeline &lt;a href=&#34;#operational-timeline&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The Kepler observatory launched on March 7, 2009, aboard a Delta II rocket from Cape Canaveral Air Force Station. The telescope cover was jettisoned on April 7, 2009. The focus was optimized in April 2009. Kepler began its search for planets on May 13, 2009. The first science data was sent to Earth on June 19, 2009. Safe mode events occurred in June and July 2009 due to a processor reset. A low voltage power supply was identified as the cause. In January 2010, a problem occurred with focal plane MOD-3 module.&lt;/p&gt;
+&lt;h2 id=&#34;field-of-view&#34;&gt;Field of view &lt;a href=&#34;#field-of-view&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Kepler had a fixed field of view (FOV) in the constellations Cygnus, Lyra, and Draco, covering 115 square degrees.&lt;/p&gt;
+&lt;h2 id=&#34;objectives-and-methods&#34;&gt;Objectives and methods &lt;a href=&#34;#objectives-and-methods&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Kepler&amp;rsquo;s objective was to explore the structure and diversity of planetary systems. It aimed to determine the number of Earth-size planets in or near habitable zones, the range of orbit sizes and shapes, the number of planets in multiple-star systems, and the properties of stars with planetary systems. The transit method was used to detect planets.&lt;/p&gt;
+&lt;h2 id=&#34;planet-finding-process&#34;&gt;Planet finding process &lt;a href=&#34;#planet-finding-process&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;finding-planet-candidates&#34;&gt;Finding planet candidates &lt;a href=&#34;#finding-planet-candidates&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Kepler collected data, constructed light curves, and used software&lt;/p&gt;
+&lt;p&gt;source: &lt;a href=&#34;https://en.wikipedia.org/wiki/Kepler_(spacecraft)&#34;&gt;https://en.wikipedia.org/wiki/Kepler_(spacecraft)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Darwin (spacecraft)</title>
+      <link>http://localhost:1313/content/content_679d3f288d30/</link>
+      <pubDate>Fri, 12 Jan 2024 02:27:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/content/content_679d3f288d30/</guid>
+      <description>&lt;h1 id=&#34;darwin&#34;&gt;Darwin &lt;a href=&#34;#darwin&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Darwin was a proposed ESA Cornerstone mission involving a constellation of spacecraft designed to detect Earth-like planets orbiting nearby stars and search for evidence of life. The most recent design featured three free-flying space telescopes redirecting light to a fourth spacecraft containing beam combiners, spectrometers, and cameras. An earlier design included six 1.5-meter telescopes, a beam combiner, and a separate power and communications spacecraft. The study of this mission ended in 2007.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Key Points&lt;/strong&gt;: Detection of Earth-like planets and search for extraterrestrial life.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Operator&lt;/strong&gt;: ESA (European Space Agency)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Location&lt;/strong&gt;: Sun-Earth L2 Lagrangian point in a Halo orbit.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Major Events&lt;/strong&gt;: Study ended in 2007 with no further activities planned.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;concept&#34;&gt;Concept &lt;a href=&#34;#concept&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The space telescopes were designed to observe in the infrared spectrum. This region was chosen because the difference in brightness between an Earth-like planet and its star is less pronounced in the infrared compared to the visible spectrum. The spacecraft components in the optical path would need to be passively cooled to 40 kelvins for infrared observations. The planet search would have used a nulling interferometer configuration to cancel out light from the central star, allowing for the detection of orbiting planets. If a suitable planet was detected, a detailed study of its atmosphere would be conducted by analyzing its infrared spectrum for evidence of life, such as the presence of oxygen and water vapor.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Key Points&lt;/strong&gt;: Infrared observation, nulling interferometer, atmospheric analysis for biosignatures.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Important People&lt;/strong&gt;: Mention of a 2000 ESA bulletin.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Major Events&lt;/strong&gt;: Design considerations for infrared observations and planet detection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;candidate-planets&#34;&gt;Candidate planets &lt;a href=&#34;#candidate-planets&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Planet Gliese 581 d, discovered in 2007, was considered a good candidate for the Darwin project because it orbits within the habitable zone of its star, potentially supporting life.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Key Points&lt;/strong&gt;: Gliese 581 d as a potential target for observation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Major Events&lt;/strong&gt;: Discovery of Gliese 581 d in 2007.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;similar-initiatives&#34;&gt;Similar initiatives &lt;a href=&#34;#similar-initiatives&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;NASA&amp;rsquo;s Terrestrial Planet Finder (TPF) mission was similar in concept to Darwin. However, the TPF project was deferred indefinitely in 2006 and later cancelled in 2011. Antoine Labeyrie proposed a larger space-based astronomical interferometer called the Hypertelescope, which would be more expensive and complex than Darwin and TPF.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Key Points&lt;/strong&gt;: Comparison to NASA&amp;rsquo;s Terrestrial Planet Finder and the Hypertelescope project.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Important People&lt;/strong&gt;: Antoine Labeyrie.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Major Events&lt;/strong&gt;: Deferral and cancellation of NASA&amp;rsquo;s Terrestrial Planet Finder.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;source: &lt;a href=&#34;https://en.wikipedia.org/wiki/Darwin_(spacecraft)&#34;&gt;https://en.wikipedia.org/wiki/Darwin_(spacecraft)&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

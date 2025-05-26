@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cargo on Alien Truth Social</title>
+    <link>http://localhost:1313/tags/cargo/</link>
+    <description>Recent content in Cargo on Alien Truth Social</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Apr 2025 00:43:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/cargo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncrewed spacecraft</title>
+      <link>http://localhost:1313/content/content_d7dce9bca2cb/</link>
+      <pubDate>Wed, 23 Apr 2025 00:43:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/content/content_d7dce9bca2cb/</guid>
+      <description>&lt;h1 id=&#34;uncrewed-spacecraft&#34;&gt;Uncrewed Spacecraft &lt;a href=&#34;#uncrewed-spacecraft&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;This article discusses spacecraft designed to operate without a human crew on board. These robotic spacecraft can be remotely controlled, guided, or fully autonomous, executing pre-programmed operations. They are often used for scientific measurements, in which case they are called space probes or space observatories.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Points:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Uncrewed spacecraft offer advantages over crewed missions due to lower costs and reduced risks.&lt;/li&gt;
+&lt;li&gt;They can explore environments too hostile for humans, such as Venus or Jupiter&amp;rsquo;s vicinity.&lt;/li&gt;
+&lt;li&gt;They allow for the exploration of regions vulnerable to contamination by Earth microorganisms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;history&#34;&gt;History &lt;a href=&#34;#history&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section details the historical development of uncrewed spacecraft, beginning with the first artificial satellite, Sputnik 1, launched by the Soviet Union in 1957. It highlights the early competition between the USSR and the United States in space exploration, including the launch of Explorer 1 by the US in 1958. The section also mentions early lunar probes like Luna 1 and planetary probes like Mariner 2 (Venus) and Mariner 4 (Mars). The Voyager 1 probe, launched in 1977, is noted as the first interstellar probe. It also lists the countries that have successfully launched satellites using their own launch vehicles.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Events and Missions:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1951:&lt;/strong&gt; First robotic spacecraft launched by the Soviet Union with dogs Dezik and Tsygan.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1957:&lt;/strong&gt; Launch of Sputnik 1 (USSR), the first artificial satellite.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1958:&lt;/strong&gt; Launch of Explorer 1 (US), confirming the existence of the Van Allen belts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1959:&lt;/strong&gt; Luna 1 (USSR) orbits the Moon and then the Sun.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1962:&lt;/strong&gt; Mariner 2 (US) studies Venus.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1965:&lt;/strong&gt; Mariner 4 (US) flies by Mars and sends back images.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;1977:&lt;/strong&gt; Launch of Voyager 1 (US), the first interstellar probe.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2012:&lt;/strong&gt; Voyager 1 enters interstellar space.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2018:&lt;/strong&gt; Voyager 2 enters interstellar space.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Countries Mentioned:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Soviet Union (USSR)&lt;/li&gt;
+&lt;li&gt;United States&lt;/li&gt;
+&lt;li&gt;France&lt;/li&gt;
+&lt;li&gt;Japan&lt;/li&gt;
+&lt;li&gt;China&lt;/li&gt;
+&lt;li&gt;United Kingdom&lt;/li&gt;
+&lt;li&gt;India&lt;/li&gt;
+&lt;li&gt;Israel&lt;/li&gt;
+&lt;li&gt;Iran&lt;/li&gt;
+&lt;li&gt;North Korea&lt;/li&gt;
+&lt;li&gt;South Korea&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;design&#34;&gt;Design &lt;a href=&#34;#design&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section outlines the various subsystems and components that make up an uncrewed spacecraft. It references the United States Air Force&amp;rsquo;s definition of a spacecraft consisting of a mission payload and a bus (or platform). It also references JPL&amp;rsquo;s division of a spacecraft&amp;rsquo;s &amp;ldquo;flight system&amp;rdquo; into subsystems.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Subsystems Described:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Structure:&lt;/strong&gt; Provides mechanical integrity and support for components.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data Handling:&lt;/strong&gt; Manages command sequences, spacecraft clock, telemetry, and mission data.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Attitude Determination and Control:&lt;/strong&gt; Maintains correct orientation in space.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Entry, Descent, and Landing:&lt;/strong&gt; Discusses integrated sensing for safe landing on planetary surfaces, including hazard assessment and avoidance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Telecommunications:&lt;/strong&gt; Includes radio antennas, transmitters, and receivers for communication.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Electrical Power:&lt;/strong&gt; Describes power sources like solar cells and radioisotope thermoelectric generators.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Temperature Control and Protection from the Environment:&lt;/strong&gt; Discusses insulation, mirrors, sunshades, and shielding from micrometeoroids and orbital debris.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Propulsion:&lt;/strong&gt; Describes methods for spacecraft to travel through space, including monopropellant, bipropellant, and ion propulsion systems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mechanical Devices:&lt;/strong&gt; Discusses the use of motors and pyrotechnic devices for deployment and landing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key Concepts:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Payload&lt;/li&gt;
+&lt;li&gt;Bus (or platform)&lt;/li&gt;
+&lt;li&gt;Telemetry&lt;/li&gt;
+&lt;li&gt;Attitude control&lt;/li&gt;
+&lt;li&gt;Hazard assessment and avoidance&lt;/li&gt;
+&lt;li&gt;Propulsion systems (monopropellant, bipropellant, ion)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;control&#34;&gt;Control &lt;a href=&#34;#control&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section explains how robotic spacecraft are controlled, emphasizing the use of telemetry to transmit data and status information back to Earth. It notes that early spacecraft did not receive control signals from Earth, but command systems were later developed. The importance of increased autonomy for distant probes is highlighted, with examples like Cassini–Huygens and the Mars Exploration Rovers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Points:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Telemetry is used to transmit data and status information.&lt;/li&gt;
+&lt;li&gt;Early spacecraft lacked remote control capabilities.&lt;/li&gt;
+&lt;li&gt;Increased autonomy is crucial for distant probes due to light travel time delays.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Missions Mentioned:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sputnik 1&lt;/li&gt;
+&lt;li&gt;Explorer 1&lt;/li&gt;
+&lt;li&gt;Cassini–Huygens&lt;/li&gt;
+&lt;li&gt;Mars Exploration Rovers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;space-probes-and-observatories&#34;&gt;Space Probes and Observatories &lt;a href=&#34;#space-probes-and-observatories&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section defines space probes as robotic spacecraft that explore outer space beyond Earth orbit. It describes their function of collecting and transmitting data back to Earth, and their various forms, including orbiters, landers, and rovers. It also mentions sample-return missions. The section also defines space telescopes or space observatories as telescopes in outer space used to observe astronomical objects.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Points:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Space probes explore beyond Earth orbit and transmit data.&lt;/li&gt;
+&lt;li&gt;Space telescopes avoid atmospheric distortion and light pollution.&lt;/li&gt;
+&lt;li&gt;Trajectory planning involves Hohmann transfer orbits and gravitational slingshots.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cargo-spacecraft&#34;&gt;Cargo Spacecraft &lt;a href=&#34;#cargo-spacecraft&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section focuses on cargo or resupply spacecraft, which are robotic vehicles designed to transport supplies to space stations. It distinguishes them from space probes, which are primarily for scientific exploration. The section lists several cargo spacecraft that have serviced space stations since 1978, including Progress, Cargo Dragon 2, Cygnus, and Tianzhou.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Key Points:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cargo spacecraft transport supplies to space stations.&lt;/li&gt;
+&lt;li&gt;They are distinct from space probes, which focus on scientific exploration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Spacecraft Mentioned:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Progress (Russia)&lt;/li&gt;
+&lt;li&gt;Cargo Dragon 2 (US)&lt;/li&gt;
+&lt;li&gt;Cygnus (US)&lt;/li&gt;
+&lt;li&gt;Tianzhou (China)&lt;/li&gt;
+&lt;li&gt;Dream Chaser (US - in development)&lt;/li&gt;
+&lt;li&gt;HTV-X (Japan - in development)&lt;/li&gt;
+&lt;li&gt;Automated Transfer Vehicle (Europe - retired)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;see-also&#34;&gt;See also &lt;a href=&#34;#see-also&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section provides a list of related Wikipedia articles for further reading on topics related to uncrewed spacecraft and spaceflight.&lt;/p&gt;
+&lt;p&gt;source: &lt;a href=&#34;https://en.wikipedia.org/wiki/Robotic_spacecraft&#34;&gt;https://en.wikipedia.org/wiki/Robotic_spacecraft&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

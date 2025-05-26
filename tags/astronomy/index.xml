@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Astronomy on Alien Truth Social</title>
+    <link>http://localhost:1313/tags/astronomy/</link>
+    <description>Recent content in Astronomy on Alien Truth Social</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 06 Dec 2024 13:24:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/astronomy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Communication with extraterrestrial intelligence</title>
+      <link>http://localhost:1313/content/content_e2fe06a9ef48/</link>
+      <pubDate>Fri, 06 Dec 2024 13:24:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/content/content_e2fe06a9ef48/</guid>
+      <description>&lt;h1 id=&#34;communication-with-extraterrestrial-intelligence-ceti&#34;&gt;Communication with Extraterrestrial Intelligence (CETI) &lt;a href=&#34;#communication-with-extraterrestrial-intelligence-ceti&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;CETI is a branch of SETI (Search for Extraterrestrial Intelligence) that focuses on composing and deciphering interstellar messages that could theoretically be understood by another technological civilization. A well-known CETI experiment is the 1974 Arecibo message composed by Frank Drake. The abbreviations CETI and SETI are generic and do not refer to any particular organization like the SETI Institute. CETI research focuses on mathematical languages, pictorial systems (like the Arecibo message), algorithmic communication systems (ACETI), and computational approaches to detecting and deciphering &amp;ldquo;natural&amp;rdquo; language communication. The challenges of deciphering undeciphered writing systems in human communication, such as Linear A, are relevant to the problems of interplanetary communication. In 2015, scientists discussed active SETI and the potential risks of transmitting messages to extraterrestrials, leading to a statement advocating for a global discussion before any messages are sent.&lt;/p&gt;
+&lt;h1 id=&#34;history&#34;&gt;History &lt;a href=&#34;#history&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;In the 19th century, speculation about inhabitants of other planets was common, with many believing in intelligent beings on the Moon, Mars, and Venus. Before radio, proposals for signaling extraterrestrials included Carl Friedrich Gauss&amp;rsquo;s idea of drawing a giant Pythagorean triangle on the Siberian tundra and Joseph Johann Littrow&amp;rsquo;s suggestion to use the Sahara as a &amp;ldquo;blackboard&amp;rdquo; with trenches filled with kerosene for burning signals. Astronomers like Franz von Paula Gruithuisen looked for signs of life on the Moon and Venus, though his claims were later refuted. Interest shifted to Mars after Giovanni Schiaparelli&amp;rsquo;s discovery of &amp;ldquo;canali&amp;rdquo; (mistranslated as &amp;ldquo;canals&amp;rdquo;), sparking enthusiasm about Martian life, which eventually proved illusory. Inventor Charles Cros sought funding for a giant mirror to signal Martians, while Nikola Tesla believed his inventions could be used for interplanetary communication, claiming to have observed extraterrestrial radio signals. The Guzman Prize was established to reward the first person to establish interplanetary communication, excluding Mars.&lt;/p&gt;
+&lt;h1 id=&#34;mathematical-and-scientific-languages&#34;&gt;Mathematical and Scientific Languages &lt;a href=&#34;#mathematical-and-scientific-languages&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;This section details attempts to create languages that could be universally understood based on mathematics and logic.&lt;/p&gt;
+&lt;h2 id=&#34;lincos-lingua-cosmica&#34;&gt;Lincos (Lingua cosmica) &lt;a href=&#34;#lincos-lingua-cosmica&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Hans Freudenthal&amp;rsquo;s &lt;em&gt;Lincos: Design of a Language for Cosmic Intercourse&lt;/em&gt; (1960) expands on Astraglossa to create a general-purpose language derived from basic mathematics and logic symbols. The Carl Sagan novel &lt;em&gt;Contact&lt;/em&gt; and its film adaptation featured a dictionary resembling Lincos.&lt;/p&gt;
+&lt;h2 id=&#34;astraglossa&#34;&gt;Astraglossa &lt;a href=&#34;#astraglossa&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Lancelot Hogben&amp;rsquo;s &amp;ldquo;Astraglossa&amp;rdquo; (1963) describes a system for combining numbers and operators in a series of short and long pulses, where short pulses represent numbers and long pulses represent symbols for mathematical operations.&lt;/p&gt;
+&lt;h2 id=&#34;carl-sagan&#34;&gt;Carl Sagan &lt;a href=&#34;#carl-sagan&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Carl Sagan&amp;rsquo;s 1985 science fiction novel &lt;em&gt;Contact&lt;/em&gt; explores how a message might be constructed for communication with an alien civilization, using prime numbers, mathematics, and science. Sagan also edited a nonfiction book on the subject.&lt;/p&gt;
+&lt;h2 id=&#34;a-language-based-on-the-fundamental-facts-of-science&#34;&gt;A Language Based on the Fundamental Facts of Science &lt;a href=&#34;#a-language-based-on-the-fundamental-facts-of-science&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Carl Devito and Richard Oehrle&amp;rsquo;s 1992 paper describes a language similar to Astraglossa and Lincos, but builds its vocabulary around known physical properties.&lt;/p&gt;
+&lt;h2 id=&#34;busch-general-purpose-binary-language-used-in-lone-signal-transmissions&#34;&gt;Busch General-Purpose Binary Language Used in Lone Signal Transmissions &lt;a href=&#34;#busch-general-purpose-binary-language-used-in-lone-signal-transmissions&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;In 2010, Michael W. Busch created a general-purpose binary language used in the Lone Signal project to transmit crowdsourced messages to extraterrestrial intelligence. The Lone Signal project transmitted messages to Gliese 526 in the constellation Boötes.&lt;/p&gt;
+&lt;h1 id=&#34;pictorial-messages&#34;&gt;Pictorial Messages &lt;a href=&#34;#pictorial-messages&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Pictorial communication systems describe mathematical or physical concepts via simplified diagrams sent as bitmaps. These messages assume the recipient has similar visual capabilities and understands basic mathematics and geometry.&lt;/p&gt;
+&lt;h2 id=&#34;pioneer-probes&#34;&gt;Pioneer Probes &lt;a href=&#34;#pioneer-probes&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The Pioneer plaques were included aboard the Pioneer 10 and Pioneer 11 spacecraft, depicting the location of the Solar System within the galaxy, the Earth within the Solar System, and the human form.&lt;/p&gt;
+&lt;h2 id=&#34;voyager-probes&#34;&gt;Voyager Probes &lt;a href=&#34;#voyager-probes&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Launched in 1977, the Voyager probes carried golden records inscribed with diagrams similar to the Pioneer plaques, depicting the human form, the Solar System, and its location, along with recordings of images and sounds from Earth.&lt;/p&gt;
+&lt;h2 id=&#34;arecibo-message&#34;&gt;Arecibo Message &lt;a href=&#34;#arecibo-message&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The Arecibo message, transmitted in 1974, was a 1,679-pixel bitmap showing the numbers one through ten, atomic numbers of key elements, formulas for DNA nucleotides, the number of nucleotides in the human genome, the DNA double helix, a human figure and height, the human population, a diagram of the Solar System, and an illustration of the Arecibo telescope.&lt;/p&gt;
+&lt;h2 id=&#34;cosmic-call-messages&#34;&gt;Cosmic Call Messages &lt;a href=&#34;#cosmic-call-messages&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The &lt;em&gt;Cosmic Call&lt;/em&gt; messages consisted of digital sections, including a &amp;ldquo;Rosetta Stone&amp;rdquo; composed by Stéphane Dumas and Yvan Dutil, a copy of the Arecibo Message, the Bilingual Image Glossary, and the Braastad message, as well as text, audio, video, and other image files. These messages were transmitted in 1999 and 2003 from Evpatoria Planetary Radar in Russia under the scientific guidance of Alexander L. Zaitsev. Star systems targeted included 16 Cyg A, 15 Sge, HD 178428, Gl 777, Hip 4872, HD 245409, 55 Cnc, HD 10307, and 47 UMa.&lt;/p&gt;
+&lt;h1 id=&#34;multi-modal-messages&#34;&gt;Multi-Modal Messages &lt;a href=&#34;#multi-modal-messages&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;This section discusses messages that combine different forms of communication, such as sound, images, and text.&lt;/p&gt;
+&lt;h2 id=&#34;teen-age-message&#34;&gt;Teen-Age Message &lt;a href=&#34;#teen-age-message&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The &lt;em&gt;Teen-Age Message&lt;/em&gt;, composed by Russian scientists (Zaitsev, Gindilis, Pshenichner, Filippova) and teens, was transmitted from the 70-m dish of Evpatoria Deep Space Center in Ukraine to six star systems resembling the Sun on August 29 and September 3 and 4, 2001. The message consisted of a coherent-sounding radio signal, musical melodies performed on the theremin, and Arecibo-like binary digital information. Star systems targeted included 197076, 47 UMa, 37 Gem, 126053, 76151, and 193664.&lt;/p&gt;
+&lt;h2 id=&#34;cosmic-call-2-cosmic-call-2003-message&#34;&gt;Cosmic Call 2 (Cosmic Call 2003) Message &lt;a href=&#34;#cosmic-call-2-cosmic-call-2003-message&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The &lt;em&gt;Cosmic Call&lt;/em&gt;-2 message contained text, images, video, music, the Dutil/Dumas message, a copy of the 1974 Arecibo message, BIG = Bilingual Image Glossary, the AI program &lt;em&gt;Ella&lt;/em&gt;, and the Braastad message.&lt;/p&gt;
+&lt;h1 id=&#34;algorithmic-messages&#34;&gt;Algorithmic Messages &lt;a href=&#34;#algorithmic-messages&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;Algorithmic communication systems describe a small set of mathematic and logic symbols that form the basis for a rudimentary programming language that the recipient can run on a virtual machine.&lt;/p&gt;
+&lt;h2 id=&#34;cosmicos&#34;&gt;CosmicOS &lt;a href=&#34;#cosmicos&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;CosmicOS&lt;/em&gt;, designed by Paul Fitzpatrick at MIT, describes a virtual machine derived from lambda calculus.&lt;/p&gt;
+&lt;h2 id=&#34;logic-gate-matrices&#34;&gt;Logic Gate Matrices &lt;a href=&#34;#logic-gate-matrices&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;em&gt;Logic Gate Matrices&lt;/em&gt; (LGM), developed by Brian McConnell, describes a universal virtual machine constructed by connecting coordinates in an n-dimensional space via mathematics and logic operations.&lt;/p&gt;
+&lt;h1 id=&#34;natural-language-messages&#34;&gt;Natural Language Messages &lt;a href=&#34;#natural-language-messages&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;This research focuses on detecting and deciphering signals or messages that are either not directed at us (eavesdropping) or are in their natural communicative form. Methods are being developed to detect if a signal has structure indicative of an intelligent source, categorize the type of structure detected, and then decipher its content. This structure modeling focuses on the search for generic human and inter-species language universals to devise computational methods by which language may be discriminated from non-language, and core structural syntactic elements of unknown languages may be detected. John Elliott is a key researcher in this area. A key concept is that human languages conform to a Zipfian distribution, which may also apply to alien languages. Laurance Doyle explains that the slope of a line that represents individual tokens in a stream of tokens may indicate whether the stream contains linguistic or other structured content.&lt;/p&gt;
+&lt;h1 id=&#34;ceti-researchers&#34;&gt;CETI Researchers &lt;a href=&#34;#ceti-researchers&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;This section lists key individuals involved in CETI research:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Frank Drake (SETI Institute):&lt;/strong&gt; SETI pioneer, composed the Arecibo message.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dr John Elliott:&lt;/strong&gt; Researches strategies for deciphering &amp;rsquo;natural&amp;rsquo; language messages, focusing on algorithms to detect intelligent-like structure.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Laurence Doyle (SETI Institute):&lt;/strong&gt; Studies animal communication and develops statistical measures of complexity in animal utterances.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stephane Dumas:&lt;/strong&gt; Developed &lt;em&gt;Cosmic Call&lt;/em&gt; messages and techniques for generating noise-resistant 2-D symbols.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Yvan Dutil:&lt;/strong&gt; Developed &lt;em&gt;Cosmic Call&lt;/em&gt; messages with Stephane Dumas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Paul Fitzpatrick (MIT):&lt;/strong&gt; Developed &lt;em&gt;CosmicOS&lt;/em&gt; system based on lambda calculus.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Brian McConnell:&lt;/strong&gt; Developed a framework for algorithmic communication systems (ACETI).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Marvin Minsky (MIT AI researcher):&lt;/strong&gt; Believed aliens may think similarly to humans, permitting communication, and proposed including algorithms in interstellar messages.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Carl Sagan:&lt;/strong&gt; Co-authored the Arecibo message and was heavily involved in SETI.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Douglas Vakoch (METI):&lt;/strong&gt; Editor of &lt;em&gt;Archaeology, Anthropology, and Interstellar Communication&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Alexander Zaitsev (IRE, Russia):&lt;/strong&gt; Composed &lt;em&gt;Teen Age Message&lt;/em&gt; and &lt;em&gt;Bilingual Image Glossary&lt;/em&gt; and managed transmissions from Evpatoria Planetary Radar.&lt;/li&gt;
+&lt;li&gt;**Michael W&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;source: &lt;a href=&#34;https://en.wikipedia.org/wiki/Communication_with_extraterrestrial_intelligence&#34;&gt;https://en.wikipedia.org/wiki/Communication_with_extraterrestrial_intelligence&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Telescopes on Alien Truth Social</title>
+    <link>http://localhost:1313/tags/telescopes/</link>
+    <description>Recent content in Telescopes on Alien Truth Social</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Apr 2025 00:43:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/telescopes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uncrewed spacecraft</title>
+      <link>http://localhost:1313/content/content_858050517e8d/</link>
+      <pubDate>Wed, 23 Apr 2025 00:43:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/content/content_858050517e8d/</guid>
+      <description>&lt;h1 id=&#34;uncrewed-spacecraft&#34;&gt;Uncrewed Spacecraft &lt;a href=&#34;#uncrewed-spacecraft&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;This Wikipedia article provides an overview of spacecraft that operate without human presence on board, often referred to as uncrewed or robotic spacecraft. It covers their purpose, history, design considerations, control mechanisms, and various types, including space probes and cargo spacecraft.&lt;/p&gt;
+&lt;h2 id=&#34;spacecraft-without-people-on-board&#34;&gt;Spacecraft without people on board &lt;a href=&#34;#spacecraft-without-people-on-board&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This introductory section defines uncrewed spacecraft as those without humans on board, highlighting their varying levels of autonomy, from remote control to pre-programmed operations. It distinguishes between space probes/observatories (for scientific measurements) and other types of uncrewed spacecraft. The section emphasizes the advantages of using uncrewed spacecraft for certain missions due to lower costs, reduced risks, and the ability to explore hostile environments unsuitable for humans. It also mentions the importance of sterilization for missions exploring regions vulnerable to contamination by Earth microorganisms. The launch of Sputnik on October 4, 1957, is noted as the first uncrewed space mission.&lt;/p&gt;
+&lt;h2 id=&#34;history&#34;&gt;History &lt;a href=&#34;#history&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section traces the historical development of uncrewed spacecraft, starting with the Soviet Union&amp;rsquo;s suborbital flight in 1951 carrying two dogs, Dezik and Tsygan. It details the launch of Sputnik 1 in 1957, the first artificial satellite, followed by Sputnik 2, which carried the first animal, Laika, into orbit. The United States&amp;rsquo; response with Explorer 1 in 1958, which confirmed the existence of the Van Allen belts, is also covered. The section mentions early lunar probes like Luna 1 and highlights key milestones in planetary exploration, such as Mariner 2&amp;rsquo;s study of Venus, Venera 4&amp;rsquo;s atmospheric probe of Venus, and Mariner 4&amp;rsquo;s images of Mars. Voyager 1, launched in 1977, is identified as the first interstellar probe, entering interstellar space in 2012, followed by Voyager 2 in 2018. It also lists the other countries that have successfully launched satellites using their own launch vehicles.&lt;/p&gt;
+&lt;h2 id=&#34;design&#34;&gt;Design &lt;a href=&#34;#design&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section delves into the design considerations for uncrewed spacecraft. It references the United States Air Force&amp;rsquo;s approach, which divides a spacecraft into the mission payload and the bus (or platform), which provides essential support systems. JPL&amp;rsquo;s division of a spacecraft&amp;rsquo;s &amp;ldquo;flight system&amp;rdquo; into subsystems is also mentioned. The subsystems include:&lt;/p&gt;
+&lt;h3 id=&#34;structure&#34;&gt;Structure &lt;a href=&#34;#structure&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The physical structure provides mechanical integrity and support for spacecraft components, ensuring they can withstand launch loads.&lt;/p&gt;
+&lt;h3 id=&#34;data-handling&#34;&gt;Data handling &lt;a href=&#34;#data-handling&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;The command and data subsystem stores command sequences, maintains the spacecraft clock, and collects/reports telemetry and mission data.&lt;/p&gt;
+&lt;h3 id=&#34;attitude-determination-and-control&#34;&gt;Attitude determination and control &lt;a href=&#34;#attitude-determination-and-control&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This system maintains the spacecraft&amp;rsquo;s orientation in space, compensating for external disturbances and repositioning movable parts.&lt;/p&gt;
+&lt;h3 id=&#34;entry-descent-and-landing&#34;&gt;Entry, descent, and landing &lt;a href=&#34;#entry-descent-and-landing&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This section discusses the integrated sensing technology used for safe landing on planetary surfaces, including real-time hazard detection and avoidance.&lt;/p&gt;
+&lt;h4 id=&#34;landing-on-hazardous-terrain&#34;&gt;Landing on hazardous terrain &lt;a href=&#34;#landing-on-hazardous-terrain&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;This section details the key processes involved in landing on the surface of a planet to ensure a safe and successful landing.&lt;/p&gt;
+&lt;h3 id=&#34;telecommunications&#34;&gt;Telecommunications &lt;a href=&#34;#telecommunications&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This subsystem includes radio antennas, transmitters, and receivers for communication with Earth or other spacecraft.&lt;/p&gt;
+&lt;h3 id=&#34;electrical-power&#34;&gt;Electrical power &lt;a href=&#34;#electrical-power&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Electric power is supplied by photovoltaic cells or radioisotope thermoelectric generators, with batteries for storage and distribution circuitry.&lt;/p&gt;
+&lt;h3 id=&#34;temperature-control-and-protection-from-the-environment&#34;&gt;Temperature control and protection from the environment &lt;a href=&#34;#temperature-control-and-protection-from-the-environment&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Insulation, mirrors, and sunshades are used to protect spacecraft from temperature fluctuations, micrometeoroids, and orbital debris.&lt;/p&gt;
+&lt;h3 id=&#34;propulsion&#34;&gt;Propulsion &lt;a href=&#34;#propulsion&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This section describes the methods used to propel spacecraft through space, including monopropellant, bipropellant, and ion propulsion systems.&lt;/p&gt;
+&lt;h4 id=&#34;monopropellant&#34;&gt;Monopropellant &lt;a href=&#34;#monopropellant&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;This propulsion system uses a fuel with a chemically bonded oxidizer, requiring a catalyst for combustion.&lt;/p&gt;
+&lt;h4 id=&#34;bipropellant&#34;&gt;Bipropellant &lt;a href=&#34;#bipropellant&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;This propulsion system uses a liquid propellant, where the oxidizer and fuel spontaneously combust upon contact.&lt;/p&gt;
+&lt;h4 id=&#34;ion&#34;&gt;Ion &lt;a href=&#34;#ion&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;This propulsion system generates thrust by accelerating ions, providing efficient velocity maintenance for deep-space travel.&lt;/p&gt;
+&lt;h3 id=&#34;mechanical-devices&#34;&gt;Mechanical devices &lt;a href=&#34;#mechanical-devices&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;Pyrotechnic devices are often used to control one-time movements for deployment or landing.&lt;/p&gt;
+&lt;h3 id=&#34;robotic-vs-uncrewed-spacecraft&#34;&gt;Robotic vs. uncrewed spacecraft &lt;a href=&#34;#robotic-vs-uncrewed-spacecraft&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;This section clarifies the distinction between robotic and uncrewed spacecraft, noting that robotic spacecraft are designed for specific hostile environments, while uncrewed spacecraft are operated automatically or remotely.&lt;/p&gt;
+&lt;h2 id=&#34;control&#34;&gt;Control &lt;a href=&#34;#control&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section explains how robotic spacecraft use telemetry to transmit data and status information back to Earth. It notes the evolution from early spacecraft without control signals to modern probes with increased autonomy, such as Cassini–Huygens and the Mars Exploration Rovers, which can operate independently for extended periods.&lt;/p&gt;
+&lt;h2 id=&#34;space-probes-and-observatories&#34;&gt;Space probes and observatories &lt;a href=&#34;#space-probes-and-observatories&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section defines space probes as robotic spacecraft that explore outer space beyond Earth&amp;rsquo;s orbit. It describes their scientific instruments and various mission types, including flybys, orbits, landings, and sample returns. The section also mentions trajectory techniques like Hohmann transfer orbits and gravitational slingshots. Space telescopes or observatories are defined as telescopes in outer space used to observe astronomical objects, avoiding atmospheric interference and light pollution.&lt;/p&gt;
+&lt;h2 id=&#34;cargo-spacecraft&#34;&gt;Cargo spacecraft &lt;a href=&#34;#cargo-spacecraft&#34; class=&#34;anchor&#34;&gt;🔗&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This section focuses on cargo or resupply spacecraft, which transport supplies to space stations. It mentions the history of automated cargo spacecraft servicing stations like Salyut 6, Mir, and the ISS. The section lists the currently active cargo spacecraft, including Progress, Cargo Dragon 2, Cygnus, and Tianzhou, as well as those under development, such as Dream Chaser and HTV-X. The European Automated Transfer Vehicle (ATV) is mentioned as a previously used cargo spacecraft.&lt;/p&gt;
+&lt;p&gt;source: &lt;a href=&#34;https://en.wikipedia.org/wiki/Space_probe&#34;&gt;https://en.wikipedia.org/wiki/Space_probe&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
