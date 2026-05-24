@@ -1,4 +1,0 @@
-User-agent: *
-Allow: *
-
-Sitemap: https://alien-truth-social.github.io/sitemap.xml
