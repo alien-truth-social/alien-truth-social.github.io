@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Contact the operators
+    url: https://github.com/gmeinke
+    about: This repository is auto-generated. Issues are disabled; reach out via the link above.
